@@ -1,3 +1,3 @@
 # certificate
-document
-https://github.com/slavak9/certificate/blob/python/pyhton%20certificate/Viachaslau%20Kudaka.pdf
+ICND1
+https://github.com/slavak9/certificate/blob/ICND1/ICND1/IMG_ICND1.jpg
